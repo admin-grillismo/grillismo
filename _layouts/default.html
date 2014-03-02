@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+        <meta name="description" content="{{site.description}}"/>
+        <meta name="author" content="{{site.author}}"/>
+        <link rel="author" href="humans.txt"/>
+
+        <link href="{{site.baseurl}}/css/mystyle.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <!-- navigation bar -->
+        <div class="navbar navbar-default navbar-static-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">Entomologia politica</a>
+            </div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="/">Home</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Su di noi<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contacts.html">Contatti</a></li>
+                    <li><a href="ack.html">Acknowledgements</a></li>
+                    <!--li class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li-->
+                  </ul>
+                </li>
+
+                <li><a href="#">Temi caldi</a></li>
+                <li><a href="#">Storia M5S</a></li>
+                <li><a href="#">Persone</a></li>
+                <li><a href="#">Parlamento</a></li>
+                <li><a href="#">Amministrazione</a></li>
+              </ul>
+          </div>
+        </div>
+        <!-- end navigation bar -->
+
+
+        <main>
+            {{ content }}
+        </main>
+
+        <footer>
+            <div class="container">
+                <hr />
+                <p>&copy; <time>2014</time> {{ site.author }}</p>
+            </div>
+        </footer>
+
+
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+
+</html>

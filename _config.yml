@@ -1,0 +1,10 @@
+name: Entomologia Politica
+description: Un sito di riferimento sul fenomeno Beppe Grillo
+author: admin-grillismo
+baseurl: /grillismo
+
+safe: true
+lsi: false
+pygments: false
+#source: ~/Documents/prj/grillismo-work/grillismo_master
+
