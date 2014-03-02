@@ -1,0 +1,47 @@
+Dubbi
+----------------------
+
+- tag HTML5: header, footer, main
+- mix Markdown-HTML in Jekyll
+
+
+Impostazione sito
+----------------------
+
+- verifica integrazione con github
+- scrittura layout jekyll:
+    - categorie vs tag
+    - timestamp copyright?
+- scegliere licenza CC
+- uso "fontello" o altri icon font
+- design:
+    - color scheme ("Color Scheme Picker")
+    - background texture
+    - logo
+    - favicon
+- uso Google Analytics
+- humans.txt, robots.txt, sitemap.html
+
+Pagine
+----------------------
+
+- programma politico 5 stelle: cosa e' stato realizzato, cosa no?
+- le contraddizioni nelle dichiarazioni
+- Casaleggio:
+    - curriculum
+    - PNL
+    - Gaia
+- le cose condivisibili
+    - la situazione dell'Italia
+    - la corruzione
+
+- gli echi totalitari: Mussolini, Goebbels, il nazismo magico
+- storia degli albori del nazifascismo
+
+
+Sviluppi
+----------------------
+
+- bot di verifica link
+- accesso automatizzato atti parlamento
+
