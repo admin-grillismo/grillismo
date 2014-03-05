@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: Gemfile
+Disallow: TODO.txt
+
