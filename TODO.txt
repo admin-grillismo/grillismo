@@ -8,19 +8,16 @@ Dubbi
 Impostazione sito
 ----------------------
 
-- verifica integrazione con github
 - scrittura layout jekyll:
     - categorie vs tag
-    - timestamp copyright?
-- scegliere licenza CC
 - uso "fontello" o altri icon font
 - design:
-    - color scheme ("Color Scheme Picker")
-    - background texture
-    - logo
+    - rivedere logo
     - favicon
+    - layout FAQ
 - uso Google Analytics
-- humans.txt, robots.txt, sitemap.html
+- robots.txt
+- javascript per styling "TODO"
 
 Pagine
 ----------------------
