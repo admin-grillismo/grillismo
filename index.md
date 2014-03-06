@@ -34,7 +34,6 @@ title: Welcome Page
         <div class="col-md-4">
             <h2>Le persone del M5S</h2>
             <ul>
-                <li><a href="#">Beppe Grillo (TODO)</a></li>
                 <li><a href="#">Casaleggio (TODO)</a></li>
                 <li><a href="#">Parlamentari (TODO)</a></li>
                 <li><a href="#">Collaboratori parlamentari (TODO)</a></li>

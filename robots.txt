@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: Gemfile
 Disallow: TODO.txt
+Disallow: README.md
 

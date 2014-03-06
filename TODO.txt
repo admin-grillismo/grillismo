@@ -1,28 +1,34 @@
 Dubbi
 ----------------------
 
-- tag HTML5: header, footer, main
-- mix Markdown-HTML in Jekyll
 
 
 Impostazione sito
 ----------------------
 
-- scrittura layout jekyll:
-    - categorie vs tag
-- uso "fontello" o altri icon font
+? uso "fontello" o altri icon font
 - design:
-    - rivedere logo
-    - favicon
-    - layout FAQ
-- uso Google Analytics
-- robots.txt
+    - rivedere logo e favicon
+    - pulire layout FAQ
+
+- verifica uso Google Analytics
 - javascript per styling "TODO"
+- inclusione forum (Disqus?)
+- posts
+
+
+Sviluppi
+----------------------
+
+- bot di verifica link
+- accesso automatizzato atti parlamento
+
 
 Pagine
 ----------------------
 
-- programma politico 5 stelle: cosa e' stato realizzato, cosa no?
+- programma
+- biblio
 - le contraddizioni nelle dichiarazioni
 - Casaleggio:
     - curriculum
@@ -36,9 +42,9 @@ Pagine
 - storia degli albori del nazifascismo
 
 
-Sviluppi
+Posts
 ----------------------
 
-- bot di verifica link
-- accesso automatizzato atti parlamento
+- analisi redditivita' sito
+
 
