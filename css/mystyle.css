@@ -2,7 +2,18 @@
 /*   min-height: 2000px;*/
 /* }*/
 
-.navbar-static-top {
-  margin-bottom: 19px;
+/* .navbar-static-top {*/
+/*     margin-bottom: 19px;*/
+/* }*/
+
+.todo {
+    color: red;
 }
 
+
+/* .jumbotron {*/
+/*     background-image: url(../images/insects_bkg.jpg);*/
+/*     background-position: 0% 0%;*/
+/*     background-size: auto;*/
+/*     background-repeat: repeat;*/
+/* }*/
