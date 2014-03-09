@@ -11,8 +11,8 @@
         <meta name="author" content="{{site.author}}"/>
         <link rel="author" href="humans.txt"/>
 
-        <link href="{{site.baseurl}}/css/mystyle.css" rel="stylesheet">
         <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/mystyle.css" rel="stylesheet">
         <link rel="icon" href="images/favicon.ico" />
 
         <meta name="keywords" content="beppe, grillo, beppegrillo, casaleggio, m5s, cinque, stelle, entomologia, politica"/>
@@ -27,25 +27,52 @@
         <div class="navbar navbar-default navbar-static-top" role="navigation">
           <div class="container">
             <div class="navbar-header">
-              <a class="navbar-brand" href="#">
+              <a class="navbar-brand" href="{{ site.baseurl }}/">
               <img src="images/favicon.ico" alt="small logo" />Entomologia politica</a>
               <!-- <a class="navbar-brand" href="#">Entomologia politica</a>-->
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="/">Home</a></li>
-                <li><a href="#">Temi principali</a></li>
-                <li><a href="#">Persone M5S</a></li>
-                <li><a href="#">Attività M5S</a></li>
+                <li class="active"><a href="{{ site.baseurl }}/">Home</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Temi principali<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="beppe.hmtl">Beppe Grillo</a></li>
+                    <li><a href="storia.html">Storia del Movimento 5 Stelle</a></li>
+                    <li><a href="total.html">Timori di totalitarismo</a></li>
+                    <li><a href="bufale.html">Le bufale sostenute da Grillo</a></li>
+                    <li><a href="programma.html">Il programma</a></li>
+                    <li><a href="good.html">Good News</a></li>
+                    <li><a href="biblio.html">Bibliografia</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Persone M5S<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="beppe.hmtl">Beppe Grillo</a></li>
+                    <li><a href="casaleggio.html">Casaleggio (TODO)</a></li>
+                    <li><a href="parlam.html">Parlamentari (TODO)</a></li>
+                    <li><a href="collab.html">Collaboratori parlamentari (TODO)</a></li>
+                    <li><a href="fuoriusciti.html">Fuoriusciti</a></li>
+                    <li><a href="attivisti.html">Attivisti (TODO)</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Attività M5S<b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="osserva.html">Osservatorio parlamentare (TODO)</a></li>
+                    <li><a href="ammin.html">Amministrazioni locali (TODO)</a></li>
+                  </ul>
+                </li>
               </ul>
 
               <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Chi siamo<b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li><a href="faq.html">FAQ</a></li>
                     <li><a href="contatti.html">Contatti</a></li>
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="chisiamo.html">Chi siamo</a></li>
                     <li><a href="ack.html">Acknowledgements</a></li>
                   </ul>
                 </li>
@@ -61,14 +88,20 @@
 
         <footer>
             <hr />
-            <div class="container text-center">
-                <a rel="license" href="http://creativecommons.org/licenses/by/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/it/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by/3.0/it/">Creative Commons Attribuzione 3.0 Italia</a>.
+            <div class="container">
+                &copy; admin-grillismo 2014 - 
+                I contenuti di questo sito sono rilasciati sotto licenza
+                <a rel="license" href="http://creativecommons.org/licenses/by/3.0/it/">Creative Commons Attribuzione 3.0 Italia</a>
+                <a rel="license" href="http://creativecommons.org/licenses/by/3.0/it/">
+                    <img alt="Licenza Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/it/80x15.png" />
+                </a>
             </div>
         </footer>
 
 
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="js/myscript.js"></script>
         <script src="js/bootstrap.min.js"></script>
     </body>
 
