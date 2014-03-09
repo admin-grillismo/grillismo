@@ -6,15 +6,13 @@ Dubbi
 Impostazione sito
 ----------------------
 
-? uso "fontello" o altri icon font
 - design:
     - rivedere logo e favicon
     - pulire layout FAQ
 
 - verifica uso Google Analytics
-- javascript per styling "TODO"
 - inclusione forum (Disqus?)
-- posts
+- blog
 
 
 Sviluppi
@@ -22,29 +20,72 @@ Sviluppi
 
 - bot di verifica link
 - accesso automatizzato atti parlamento
+- gioco: "chi l'ha detto"?
 
 
 Pagine
 ----------------------
 
+### Complete
 - programma
+
+
+### Migliorare
+- about
+- faq
+
 - biblio
+    - compilare descrizioni
+- epurati
+- echi totalitari
+    - leggere "Siamo in Guerra" Grillo-Casaleggio
+    - aggiungere paralleli mussolini:
+        - lo stretto a nuoto
+        - vincere e vinceremo
+
+### Fare da zero
+- beppe
+    - link bio Facci il Giornale
+    - il caso Parmalat
+    - documentario "Terra Reloaded": "http://www.beppegrillo.it/2009/08/i_governi_mondi/index.html"
+    - libro testimonianze lavoro precario
+
+- casaleggio
+    - link gaia e prometeus
+
+- il copyright
+    - Stallman
+    - Lawrence Lessig "Cultura libera"
+    - uso del trademark per il M5S, e costi
+
+- elenco iniziative beppegrillo.it ("battaglie")
+
+- gli inceneritori
+    http://www.beppegrillo.it/battaglie/previsioni_del_cancro.php
+- storia
+- good
+- parlamentari
+- bufale
+- collab
+- attivisti
+
+- osserva
+- ammin
+
+
+### Altre idee
 - le contraddizioni nelle dichiarazioni
-- Casaleggio:
-    - curriculum
-    - PNL
-    - Gaia
+- le bizzarrie dei parlamentari
 - le cose condivisibili
     - la situazione dell'Italia
     - la corruzione
 
-- gli echi totalitari: Mussolini, Goebbels, il nazismo magico
 - storia degli albori del nazifascismo
 
 
-Posts
+Blog
 ----------------------
 
-- analisi redditivita' sito
+- analisi redditivita' sito beppegrillo
 
 
