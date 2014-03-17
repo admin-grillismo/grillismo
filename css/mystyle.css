@@ -6,8 +6,16 @@
 /*     margin-bottom: 19px;*/
 /* }*/
 
+dd {
+    margin-bottom: 10px;
+}
+
 .todo {
     color: red;
+}
+
+.toread {
+    color: orange;
 }
 
 
@@ -17,3 +25,5 @@
 /*     background-size: auto;*/
 /*     background-repeat: repeat;*/
 /* }*/
+
+

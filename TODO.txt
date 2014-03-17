@@ -13,12 +13,14 @@ Impostazione sito
 - verifica uso Google Analytics
 - inclusione forum (Disqus?)
 - blog
+? breadcrumb
+- seo
 
 
 Sviluppi
 ----------------------
 
-- bot di verifica link
+x bot di verifica link
 - accesso automatizzato atti parlamento
 - gioco: "chi l'ha detto"?
 
@@ -28,46 +30,51 @@ Pagine
 
 ### Complete
 - programma
+- contraddizioni
+- faq
+- about
 
 
 ### Migliorare
-- about
-- faq
+- parlamentari
+    - aggiungere dibba
 
 - biblio
     - compilare descrizioni
+    - documentario "Terra Reloaded": "http://www.beppegrillo.it/2009/08/i_governi_mondi/index.html"
+    - sito "Troll Politica"
+
 - epurati
 - echi totalitari
-    - leggere "Siamo in Guerra" Grillo-Casaleggio
     - aggiungere paralleli mussolini:
         - lo stretto a nuoto
         - vincere e vinceremo
+        - "giornalista del giorno"
+        - epurazioni
+
+- bufale
+
 
 ### Fare da zero
 - beppe
     - link bio Facci il Giornale
     - il caso Parmalat
-    - documentario "Terra Reloaded": "http://www.beppegrillo.it/2009/08/i_governi_mondi/index.html"
-    - libro testimonianze lavoro precario
 
 - casaleggio
     - link gaia e prometeus
 
+- elenco iniziative beppegrillo.it ("battaglie")
+
 - il copyright
     - Stallman
     - Lawrence Lessig "Cultura libera"
-    - uso del trademark per il M5S, e costi
-
-- elenco iniziative beppegrillo.it ("battaglie")
+    - uso del trademark per il M5S, e prezziario per i circoli
 
 - gli inceneritori
     http://www.beppegrillo.it/battaglie/previsioni_del_cancro.php
+
 - storia
 - good
-- parlamentari
-- bufale
-- collab
-- attivisti
 
 - osserva
 - ammin
