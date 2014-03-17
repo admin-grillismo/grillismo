@@ -1,0 +1,17 @@
+---
+layout: page
+title: Le contraddizioni di Grillo
+---
+
+Spesso, sara' la foga, o un calcolo studiato per compiacere l'interlocutore del momento, o un vero cambio di opinione (solo gli imbecilli non cambiano mai idea, dopotutto), Beppe Grillo si contraddice. Ecco una panoramica delle giravolte piu' grosse.
+
+- Per la presidenza della Repubblica, il [17 aprile 2013](http://www.corriere.it/politica/speciali/2013/elezioni-presidente-repubblica/notizie/17-aprile-quirinarie-gino-strada-io-dopo-gabanelli-decide-movimento_4755b680-a746-11e2-ae64-724b68a647ec.shtml) _"ho chiamato Rodotà che ha accettato di candidarsi e che sarà il candidato votato dal M5S"_, ma il [30 maggio 2013](http://www.beppegrillo.it/2013/05/i_maestrini_dal.html) _"c'è un fiorire di maestrini dalla penna rossa ...  in prima fila un ottuagenario miracolato dalla Rete ... sbrinato di fresco dal mausoleo dove era stato confinato"_.
+
+- La giornalista Milena Gabanelli _"è messa contro tutti i poteri forti e fa indagini meravigliose"_ ([16 aprile 2013](http://www.repubblica.it/speciali/politica/elezioni-presidente-repubblica-edizione2013/2013/04/16/news/quirinale_milena_gabanelli_il_candidato_m5s-56746675/)). No, _"Non ce l'ho con i giornalisti, ma un giorno gli faremo un culo cosi'... Floris, Ballaro', Gabanelli"_ [1 giugno 2013](http://www.ilsussidiario.net/News/Politica/2013/6/1/BEPPE-GRILLO-Le-minacce-a-Rodota-alla-Gabanelli-e-ai-parlamentari-M5S/399162/)
+
+- Nella chiamata a raccolta per terzo V-Day, il [7 gennaio 2012](http://www.beppegrillo.it/2012/01/un_vday_per_la_costituzione.html): _"L'Italia e' una repubblica partitocratica ... i partiti si reggono su un tavolino a tre gambe ... la terza gamba e' parte della Costituzione. ... Chi sventola in toto l'attuale Costituzione come un Vangelo ... o non l'ha letta o l'ha capita troppo bene."_. Salvo poi il [7 settembre 2013](http://www.beppegrillo.it/2013/09/m5s_sul_tetto_di_montecitorio_constitutiondays.html) mandare 12 parlamentari sul tetto: _"Dal tetto si respira una bella aria ... Venite a Montecitorio per parlare delle vergognose riforme costituzionali che il partito unico vuole fare"_ con tanto di hashtag dedicato #constitutiondays.
+
+- _"Il Porcellum è stato partorito dalle scrofe di destra con l'aiuto dei verri di sinistra"_ ([19 maggio 2013](http://www.beppegrillo.it/2013/05/il_m5s_non_e_di.html)) e anche _"il Porcellum ha trasformato i Parlamentari in yes men"_ ([31 marzo 2013](http://www.beppegrillo.it/2013/03/il_parlamento_e_i_badanti_della_democrazia.html)). Poi, pero', _"il Porcellum hanno molta, molta fretta di cambiarlo. Sanno che con il Porcellum il rischio che il M5S vinca le elezioni e vada al governo è altissimo"_ ([22 agosto 2013](http://www.beppegrillo.it/2013/08/ogni_voto_un_calcio_in_culo.html)).
+
+- Nel 2005 firma l'appello dei Radicali per l'amnistia, e coerentemente, il [24 giugno 2011] ospita sul blog un video di Pannella sulla situazione delle carceri: _"Basta nuove carceri e che le istituzioni ... ascoltino Marco Pannella._", e riporta una lettera che proclama _"la necessità e l'urgenza di una amnistia quale primo passo per affrontare la crisi della giustizia"_. Il [31 gennaio 2014](http://www.beppegrillo.it/2013/10/cca_nisciuno_e_fesso_.html), quando Napolitano propone l'amnistia, Grillo in un post intitolato "Lacrime Napulitane" afferma che l'aminstia e' _"una soluzione che non risolve nulla perchè la maggior parte di chi verrà scarcerato in pochi mesi ... si macchierà degli stessi reati"_.
+
