@@ -22,12 +22,26 @@ Giornalettismo ha pubblicato [un'analisi quantitativa](http://www.giornalettismo
 E' comprensibile che nella fase iniziale i "cittadini" paghino lo scotto dell'inesperienza, ma coll'avanzare della legislatura ci aspettiamo un pieno inserimento nei meccanismi parlamentari; un deputato lavora con le proposte di legge e le interrogazioni, non con volantinaggi e occupazioni sui tetti: non sono piu' alle scuole superiori!
 
 
+####Quanto spendono?
+Come noto, i parlamentari M5S si sono autonomamente ridotti lo stipendio, e una parte la ricevono solo in veste di rimborso spese, a fronte di una rendicontazione pubblica.
+
+Lo stipendio totale di un parlamentare e' composto di diverse voci: lo stipendio vero proprio (5.000 euro), la diaria (circa 10.000 euro), missioni, spese di viaggio, spese telefoniche. I grillini hanno accettato di decurtarsi lo stipendio del 40%, e di restituire di tutte le altre voci quanto non viene usato per l'attivita' parlamentare in modo documentato.
+
+
+Al di la' dell'incidenza relativa del risparmio, conta l'esempio, e una rendicontazione pubblica delle spese e' un'ottima abitudine, perche' permette a tutti di spulciare i conti. C'e' [chi lo ha fatto](http://www.giornalettismo.com/archives/1199115/come-spendono-i-tuoi-soldi-i-parlamentari-del-movimento-5-stelle/), trovando qualche anomalia: c'e' chi spende 1.000 euro al mese di vitto, chi 10.000 euro in un mese di alloggio, chi gonfia la voce varie...
+
+Ma siamo certi che queste ingenue furbizie avranno vita breve, grazie al meccanismo di trasparenza adottato.
+
+####Parentopoli
+Ha suscitato clamore la cosiddetta ["parentopoli"](http://www.lettera43.it/politica/movimento-5-stelle-parentopoli-e-favoritismi_43675112794.htm): collaboratori scelti non per merito e competenza, ma in quanto parenti, amici o fidanzati dei neoparlamentari, oppure in quanto candidati trombati ("non eletti").
+
+Il problema si era evidenziato gia' all'epoca delle "parlamentarie", la votazione online dei candidati alle elezioni politiche, quando, complice il ridotto numero di votanti, in diversi casi si sono visti nominati piu' membri della stessa famiglia.
+
+Le risposte a questa polemica sono state diverse: c'e' chi ha ammesso il passo falso, chi ha difeso strenuamente nel merito la scelta fatta, e chi ha invocato il legame di fiducia quale criterio di decisione. I critici hanno obiettato che la competenza specifica dei meccanismi parlamentari avrebbe costituito un miglior criterio, considerata anche l'assoluta inesperienza dei neoeletti M5S in materia parlamentare.
+
 ------------
 
 ### Deputati
-
-####Federico D'Incà _(attuale capogruppo alla Camera)_
-
 
 ####Paolo Bernini
 Neolaureato in Scienza della Comunicazione.
@@ -66,9 +80,6 @@ Laureata in Giurisprudenza. E' stata la prima portavoce dei deputati M5S, e in q
 
 ### Senatori
 
-####Vincenzo Santangelo _(attuale capogruppo al Senato)_
-Architetto, di Trapani. [Qui](http://www.beppegrillo.it/movimento/parlamento/2014/01/santangelo-e-il-nuovo-capogruppo-m5s-senato.html) il comunicato ufficiale dell'elezione a capogruppo.
-
 ####Vito Crimi
 Ex capogruppo al Senato.
 
@@ -92,17 +103,25 @@ Diplomata, impiegata presso un ambulatorio.
 ### Collaboratori
 
 ####Claudio Messora
-Anche noto come @byoblu. Ha un passato di musicista. Un suo [blog]() e' ospitato dal Fatto Quotidiano.
-Scelto da 
+Anche noto come _byoblu_. Videomaker con un passato di informatico e musicista. Oltre al [suo blog personale](http://www.byoblu.com), ne mantiene uno presso [il Fatto Quotidiano](http://www.ilfattoquotidiano.it/blog/cmessora/).
+In rapporti con la Casaleggio e Associati dal 2009, e' stato scelto personalmente da Grillo e Casaleggio come responsabile della comunicazione (stipendiato) del gruppo M5S al Senato.
 
-(prima di assumere ruoli ufficiali) [post di fantasie erotiche](http://www.huffingtonpost.it/2014/02/04/claudio-messora-post-erotico-gelmini-carfagna-e-prestigiacom_n_4722010.html) su Gelmini, Carfagna e Prestigiacomo. Piu' discutibile, a nostro avviso, la scelta di cancellare a posteriori del post, secondo una logica orwelliana di riscrittura della storia che mal si sposa con le esigenze di trasparenza tanto sbandierate dai grillini.
+- Ha suscitato polemiche un suo intervento a gamba tesa in replica alla frase della Boldrini sui frequentatori del blog di Grillo "potenziali stupratori". Messora ha twittato: _"Cara Laura, volevo tranquillizarti... Anche se noi del blog di Grillo fossimo tutti potenziali stupratori... tu non corri nessun rischio!"_.
 
-#####Rocco Casalino
+- Un [suo post](http://www.huffingtonpost.it/2014/02/04/claudio-messora-post-erotico-gelmini-carfagna-e-prestigiacom_n_4722010.html) (scritto prima di assumere ruoli ufficiali) si diffondeva in dettagli su una sua fantasia erotica con Gelmini, Carfagna e Prestigiacomo.
+
+- Nel 2012 aveva sostenuto [teorie complottiste sull'AIDS](http://www.byoblu.com/post/2012/02/14/aids-la-grande-balla.aspx)
+
+- Accusato di avere [impedito con una mail](http://www.ilfattoquotidiano.it/2013/11/04/m5s-scoppia-parentopoli-al-senato-niente-streaming-diamo-immagine-negativa/766414/) la diretta streaming di un incontro tra i parlamentari M5S per "non dare un'immagine negativa" del movimento.
+
+- Discutibile, a nostro avviso, la sua scelta di cancellare a posteriori alcuni dei post al centro di polemiche, secondo una logica orwelliana di riscrittura della storia che mal si sposa con le esigenze di trasparenza tanto sbandierate dai grillini.
 
 
-####Parentopoli
-Riportiamo qui i casi conclamati della cosiddetta "parentopoli": collaboratori scelti non per merito e competenza, ma in quanto parenti, amici o fidanzati dei neoparlamentari, oppure in quanto candidati trombati ("non eletti").
+####Rocco Casalino
+Laureato in ingegneria a Bari, concorrente del Grande Fratello, ha poi lavorato presso alcune tv locali. Attualmente membro dello staff comunicazione M5S.
 
-In risposta alle critiche, i parlamentari al centro di questa polemica hanno invocato il legame di fiducia quale criterio di scelta dei collaboratori. I critici hanno obiettato che la competenza specifica dei meccanismi parlamentari avrebbe costituito un miglior criterio, considerata anche l'assoluta inesperienza dei neoeletti M5S in materia parlamentare.
+Ai tempi del Grande Fratello ha rilasciato un'[intervista alle Iene](http://www.youtube.com/watch?feature=player_embedded&v=crDavhMbYP0) in cui diceva diverse cose pesantemente xenofobe, tra cui _"il povero ha un odore diverso dal ricco, molto piu' forte, vicino a quello del nero. Hai mai provato a portarti a letto un rumeno? Anche se si lava, gli fai fare dieci docce, continua ad avere un odore agrodolce"_. Casalino si e' giustificato [dicendo che](http://www.beppegrillo.it/2014/02/la_verita_sullintervista_de_le_iene_a_rocco_casalino.html) si trattava di un espediente ispirato da un corso di recitazione.
+
+
 
 

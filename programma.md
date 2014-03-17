@@ -3,7 +3,7 @@ layout: page
 title: Programma
 ---
 
-Il programma ufficiale del Movimento 5 Stelle è [disponibile sul sito beppegrillo.it](http://www.beppegrillo.it/iniziative/movimentocinquestelle/Programma-Movimento-5-Stelle.pdf). E' uno snello PDF di 15 pagine scritte grandi, di facile lettura. Sono evidenziati gli "obiettivi raggiunti" finora. Vale la pena di spendere un quarto d'ora per leggerlo personalmente.
+Il programma ufficiale del Movimento 5 Stelle, stilato in occasione delle elezioni politiche del 2013, è [disponibile sul sito beppegrillo.it](http://www.beppegrillo.it/iniziative/movimentocinquestelle/Programma-Movimento-5-Stelle.pdf). E' uno snello PDF di 15 pagine scritte grandi, di facile lettura. Sono evidenziati gli "obiettivi raggiunti" finora. Vale la pena di spendere un quarto d'ora per leggerlo personalmente.
 
 Il programma si articola in 7 grandi temi:
 

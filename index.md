@@ -36,10 +36,8 @@ title: Welcome Page
             <ul>
                 <li><a href="beppe.hmtl">Beppe Grillo (TODO)</a></li>
                 <li><a href="casaleggio.html">Casaleggio (TODO)</a></li>
-                <li><a href="parlam.html">Parlamentari (TODO)</a></li>
-                <li><a href="collab.html">Collaboratori parlamentari (TODO)</a></li>
+                <li><a href="parlamentari.html">Parlamentari</a></li>
                 <li><a href="fuoriusciti.html">Fuoriusciti</a></li>
-                <li><a href="attivisti.html">Attivisti (TODO)</a></li>
             </ul>
         </div>
 

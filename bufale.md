@@ -14,3 +14,5 @@ title: Bufale a 5 Stelle
  - scie chimiche
  - zeitgeist
  	http://conspiracies.skepticproject.com/articles/zeitgeist/
+ - prevedere i terremoti (Giuliani --> Messora)
+
